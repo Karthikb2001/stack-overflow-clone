@@ -8,7 +8,7 @@ import {loadStripe} from "@stripe/react-stripe-js";
 
  
 function StripePayment() { 
-  const [product, setProduct] = useState({ 
+  const [product] = useState({ 
     name: "Silver Plan", 
     price: 100, 
     description: 

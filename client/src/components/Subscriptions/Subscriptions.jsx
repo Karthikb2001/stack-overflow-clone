@@ -36,7 +36,7 @@ const Subscriptions = () => {
                         </div>
 
                         <div class="pricingTable-sign-up">
-                            <a href="#" class="btn btn-block btn-default">Select</a>
+                            <a href="/AskQuestion" class="btn btn-block btn-default">Select</a>
                         </div>
                     
                     </div>
